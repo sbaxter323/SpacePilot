@@ -69,3 +69,14 @@ ehthumbs.db
 [Tt]humbs.db
 
 [Dd]esktop.ini
+
+# Sample Framework Assets #
+Assets/OVRHarness*
+Assets/OVRInspector*
+Assets/OVRAvatar*
+Assets/Parse*
+Assets/Plugins
+Assets/SampleScenes*
+Assets/Standard*
+Assets/StreamingAssets*
+Assets/Resources*
